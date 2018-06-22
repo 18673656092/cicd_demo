@@ -13,6 +13,6 @@ public class CICD {
     @GetMapping("/index")
     @ResponseBody
     public String cicd() {
-        return "test";
+        return "i";
     }
 }
